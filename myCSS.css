@@ -31,7 +31,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #FFFFFF;
+	background: #FF9594;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -46,10 +46,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #CA81DE;
 }
 a:visited {
-     color: #000;
+     color: #DE81A9;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
